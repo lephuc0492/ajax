@@ -1,4 +1,4 @@
-let sanpham = [
+{
 {
 	"image": "https://vn-test-11.slatic.net/p/1a18ffc0dfc73f7892ee53b0f25faac0.jpg_200x200Q100.jpg_.webp",
 	"name": "Tông đơ cắt tóc",
@@ -20,4 +20,4 @@ let sanpham = [
 	"cost": 158000,
 	"quantity": 210
 }
-]
+}
